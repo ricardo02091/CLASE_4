@@ -12,4 +12,4 @@ print(f"division entera: {numero1 // numero2}")
 print(f"residuo: {numero1 % numero2}")
 print(f"potencia: {numero1 ** numero2}")
 
-#fvhkhjkk
+
